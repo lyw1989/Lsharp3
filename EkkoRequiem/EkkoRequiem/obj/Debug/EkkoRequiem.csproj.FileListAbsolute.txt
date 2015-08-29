@@ -1,0 +1,13 @@
+C:\Users\Dudi\Documents\GitHub\Lsharp3\EkkoRequiem\EkkoRequiem\bin\Debug\EkkoRequiem.exe.config
+C:\Users\Dudi\Documents\GitHub\Lsharp3\EkkoRequiem\EkkoRequiem\bin\Debug\EkkoRequiem.exe
+C:\Users\Dudi\Documents\GitHub\Lsharp3\EkkoRequiem\EkkoRequiem\bin\Debug\EkkoRequiem.pdb
+C:\Users\Dudi\Documents\GitHub\Lsharp3\EkkoRequiem\EkkoRequiem\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Dudi\Documents\GitHub\Lsharp3\EkkoRequiem\EkkoRequiem\bin\Debug\LeagueSharp.dll
+C:\Users\Dudi\Documents\GitHub\Lsharp3\EkkoRequiem\EkkoRequiem\bin\Debug\SharpDX.dll
+C:\Users\Dudi\Documents\GitHub\Lsharp3\EkkoRequiem\EkkoRequiem\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Dudi\Documents\GitHub\Lsharp3\EkkoRequiem\EkkoRequiem\bin\Debug\clipper_library.dll
+C:\Users\Dudi\Documents\GitHub\Lsharp3\EkkoRequiem\EkkoRequiem\bin\Debug\LeagueSharp.Sandbox.dll
+C:\Users\Dudi\Documents\GitHub\Lsharp3\EkkoRequiem\EkkoRequiem\bin\Debug\LeagueSharp.xml
+C:\Users\Dudi\Documents\GitHub\Lsharp3\EkkoRequiem\EkkoRequiem\obj\Debug\EkkoRequiem.csprojResolveAssemblyReference.cache
+C:\Users\Dudi\Documents\GitHub\Lsharp3\EkkoRequiem\EkkoRequiem\obj\Debug\EkkoRequiem.exe
+C:\Users\Dudi\Documents\GitHub\Lsharp3\EkkoRequiem\EkkoRequiem\obj\Debug\EkkoRequiem.pdb
